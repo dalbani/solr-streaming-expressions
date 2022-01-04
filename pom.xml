@@ -11,6 +11,12 @@
     <name>solr-streaming-expressions</name>
     <url>https://github.com/dalbani/solr-streaming-expressions</url>
 
+    <scm>
+        <connection>scm:git:git@github.com:dalbani/solr-streaming-expressions.git</connection>
+        <developerConnection>scm:git:git@github.com:dalbani/solr-streaming-expressions.git</developerConnection>
+        <url>https://github.com/dalbani/solr-streaming-expressions</url>
+    </scm>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
